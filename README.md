@@ -43,5 +43,11 @@ Emotion-Detection-System/
 └── .gitignore
 ```
 
+## Sample Output
+
+The CNN model predicts facial emotions from input images.
+
+![Sample Output](output.png)
+
 ## Author
 Charan Vivek
